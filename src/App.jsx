@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <TopBar />
-      GirlCode Store
+      <div className='w-7'>GirlCode Store</div>
      </>
   )
 }
